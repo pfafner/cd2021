@@ -28,32 +28,32 @@
 
 ### Textos:
 
-* [R. Duda, P.Hart, D.Stork (2000). *Pattern classification*](){:target="_blank"}
+* [R. Duda, P. Hart, D. Stork (2000). *Pattern classification*.](){:target="_blank"}
 
-* [C. Bishop (2000). *Pattern Recognition and Machine Learning*](){:target="_blank"}
+* [C. Bishop (2000). *Pattern Recognition and Machine Learning*.](){:target="_blank"}
 
-* [T. Hastie, R. Tibshirani, J. Friedman (2013). *The Elements of Statistical Learning*](){:target="_blank"}
+* [T. Hastie, R. Tibshirani, J. Friedman (2013). *The Elements of Statistical Learning*.](){:target="_blank"}
 
-* [K. Murphy (2012). *Machine Learning: a Probabilistic Perspective*](){:target="_blank"}
+* [K. Murphy (2012). *Machine Learning: a Probabilistic Perspective*.](){:target="_blank"}
 
 ### Referencias adicionales:
 
-* [G. James, D. Witten, T .Hastie, R. Tibshirani (2008). *An Introduction to Statistical Learning with Applications in R*](){:target="_blank"}
+* [G. James, D. Witten, T. Hastie, R. Tibshirani (2008). *An Introduction to Statistical Learning with Applications in R*.](){:target="_blank"}
 
-* [A. Izenman (2008). *Modern Multivariate Statistical Techniques: Regression, Classification and Manifold Learning*](){:target="_blank"}
+* [A. Izenman (2008). *Modern Multivariate Statistical Techniques: Regression, Classification and Manifold Learning*.](){:target="_blank"}
 
-* [K. Fukunaga (1990). *Introduction to Statistical Pattern Recognition*](){:target="_blank"}
+* [K. Fukunaga (1990). *Introduction to Statistical Pattern Recognition*.](){:target="_blank"}
 
-* [C. Giraud (2015). *Introduction to High-Dimensional Statistics*](){:target="_blank"}
+* [C. Giraud (2015). *Introduction to High-Dimensional Statistics*.](){:target="_blank"}
 
-* [L. Devroye, L. Györfi, G. Lugosi (1996). *A Probabilistic Theory of Pattern Recognition*](){:target="_blank"}
+* [L. Devroye, L. Györfi, G. Lugosi (1996). *A Probabilistic Theory of Pattern Recognition*.](){:target="_blank"}
 
-* [S. Shalev-Shwartz, S. Ben-David (2014). *Understanding Machine Learning: From Theory to Algorithms*](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf){:target="_blank"}
+* [S. Shalev-Shwartz, S. Ben-David (2014). *Understanding Machine Learning: From Theory to Algorithms*.](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf){:target="_blank"}
 
-* [P. Rigollet (2015). *Mathematics for Machine Learning*](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/MIT18_657F15_LecNote.pdf){:target="_blank"}
+* [P. Rigollet (2015). *Mathematics for Machine Learning*.](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/MIT18_657F15_LecNote.pdf){:target="_blank"}
 
-## Artículos:
+### Artículos:
 
-* [A. S. Bandeira (2016). *Ten Lectures and Forty-Two Open Problems in the Mathematics of Data Science*](https://people.math.ethz.ch/~abandeira/TenLecturesFortyTwoProblems.pdf){:target="_blank"}
+* [A. S. Bandeira (2016). *Ten Lectures and Forty-Two Open Problems in the Mathematics of Data Science*.](https://people.math.ethz.ch/~abandeira/TenLecturesFortyTwoProblems.pdf){:target="_blank"}
 
 ---
