@@ -54,6 +54,6 @@
 
 ## Artículos:
 
-* [A. S. Bandeira (2016). *Ten Lectures and Forty-Two Open Problems in the Mathematics of Data Science*](http://www.cims.nyu.edu/bandeira/TenLecturesFortyTwoProblems.pdf){:target="_blank"}
+* [A. S. Bandeira (2016). *Ten Lectures and Forty-Two Open Problems in the Mathematics of Data Science*](https://people.math.ethz.ch/~abandeira/TenLecturesFortyTwoProblems.pdf){:target="_blank"}
 
 ---
