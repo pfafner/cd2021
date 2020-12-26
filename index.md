@@ -5,7 +5,7 @@
 # Programa del curso
 <div id='id-programa'/>
 
-[Programa del curso](/programa/Programa-cd2021.pdf){:target="_blank"}
+[Programa del curso](programa/Programa-cd2021.pdf){:target="_blank"}
 
 
 ### Office Hours
