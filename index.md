@@ -17,10 +17,16 @@
 # Material del curso
 <div id='id-material'/>
 
-  **Semana**  | **Miércoles**                                           | **Viernes**                                             | **Actividades**
+  **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
+  -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
+  01       | 11.01.2020   | Introducción <br/> [Aula 01](aulas/ad01.pdf){:target="_blank"}      | [Todavía debo buscar una lectura interesante I](lecturas/l1.pdf){:target="_blank"} <br/> [Todavía debo buscar una lectura interesante II](lecturas/l2.pdf){:target="_blank"}
+  02       | 14.01.2020   | Distribuciones <br/> [Aula 02](aulas/ad02.pdf){:target="_blank"}  | 
+  lab      | 15.01.2020   | Lab: distribuciones <br/><br/> [Lab 01](labs/lab01.pdf){:target="_blank"}  | 
+
+  **Semana**  | **Lunes**                                               | **Jueves**                                              | **Actividades**
   ----------- | ------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------
-  01          | 13.01.2020 [Aula 01](aulas/ad01.pdf){:target="_blank"}  | 15.01.2020 [Aula 02](aulas/ad02.pdf){:target="_blank"}  | 15.01.2020 [Lab 01](labs/lab01.pdf){:target="_blank"}
-  02          | 20.01.2020 [Aula 03](aulas/ad03.pdf){:target="_blank"}  | 22.01.2020 [Aula 04](aulas/ad04.pdf){:target="_blank"}  | 22.01.2020 [Lab 02](labs/lab02.pdf){:target="_blank"}
+  01          | 11.01.2020 [Aula 01](aulas/ad01.pdf){:target="_blank"}  | 14.01.2020 [Aula 02](aulas/ad02.pdf){:target="_blank"}  | 15.01.2020 [Lab 01](labs/lab01.pdf){:target="_blank"}
+  02          | 18.01.2020 [Aula 03](aulas/ad03.pdf){:target="_blank"}  | 21.01.2020 [Aula 04](aulas/ad04.pdf){:target="_blank"}  | 22.01.2020 [Lab 02](labs/lab02.pdf){:target="_blank"}
 
 
 # Referencias
