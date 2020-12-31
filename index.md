@@ -21,7 +21,8 @@
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
   01       | 11.01.2020   | Introducción <br/> [Aula 01](aulas/ad01.pdf){:target="_blank"}      | [Todavía debo buscar una lectura interesante I](lecturas/l1.pdf){:target="_blank"} <br/> [Todavía debo buscar una lectura interesante II](lecturas/l2.pdf){:target="_blank"}
   02       | 14.01.2020   | Distribuciones <br/> [Aula 02](aulas/ad02.pdf){:target="_blank"}    | 
-  lab      | 15.01.2020   | Lab: Distribuciones <br/> [Lab 01](labs/lab01.pdf){:target="_blank"}  | [How to install Anaconda + Tensorflow 2.0](lecturas/Anaconda+Tensorflow_setup_guide.pdf) 
+  lab      | 15.01.2020   | Lab: Distribuciones <br/> [Lab 01](labs/lab01.pdf){:target="_blank"}  | [How to install Anaconda + Tensorflow 2.0](lecturas/Anaconda+Tensorflow_setup_guide.pdf)
+  03       | 18.01.2020   | Variables aleatorias <br/> [Aula 03](aulas/ad03.pdf){:target="_blank"}  |
 
 
 # Referencias
