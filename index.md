@@ -40,7 +40,7 @@
 
 ### Referencias adicionales:
 
-* [G. James, D. Witten, T. Hastie, R. Tibshirani (2008). *An Introduction to Statistical Learning with Applications in R*.](){:target="_blank"}
+* [G. James, D. Witten, T. Hastie, R. Tibshirani (2008). *An Introduction to Statistical Learning with Applications in R*.](http://library.lol/main/1E48B8220FEE4CD9D192F4ED5020F2DA){:target="_blank"}
 
 * [A. Izenman (2008). *Modern Multivariate Statistical Techniques: Regression, Classification and Manifold Learning*.](){:target="_blank"}
 
