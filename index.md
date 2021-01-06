@@ -42,9 +42,9 @@
 
 * [G. James, D. Witten, T. Hastie, R. Tibshirani (2008). *An Introduction to Statistical Learning with Applications in R*.](http://library.lol/main/1E48B8220FEE4CD9D192F4ED5020F2DA){:target="_blank"}
 
-* [A. Izenman (2008). *Modern Multivariate Statistical Techniques: Regression, Classification and Manifold Learning*.](){:target="_blank"}
+* [A. Izenman (2008). *Modern Multivariate Statistical Techniques: Regression, Classification and Manifold Learning*.](http://library.lol/main/B5E1DA4CD9133B468CA730402BBC7117){:target="_blank"}
 
-* [K. Fukunaga (1990). *Introduction to Statistical Pattern Recognition*.](){:target="_blank"}
+* [K. Fukunaga (1990). *Introduction to Statistical Pattern Recognition*.](http://library.lol/main/F1FC9B38F5E9F245C7CDE3AFEDED4D06){:target="_blank"}
 
 * [C. Giraud (2015). *Introduction to High-Dimensional Statistics*.](){:target="_blank"}
 
