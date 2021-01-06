@@ -36,7 +36,7 @@
 
 * [T. Hastie, R. Tibshirani, J. Friedman (2013). *The Elements of Statistical Learning*.](http://library.lol/main/5F88A9F135B7AB31FBCF1729412560DC){:target="_blank"}
 
-* [K. Murphy (2012). *Machine Learning: a Probabilistic Perspective*.](){:target="_blank"}
+* [K. Murphy (2012). *Machine Learning: a Probabilistic Perspective*.](http://library.lol/main/8ECFEEB2E1F9A19C770FBA1FF85FA566){:target="_blank"}
 
 ### Referencias adicionales:
 
