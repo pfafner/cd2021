@@ -30,7 +30,7 @@
 
 ### Textos:
 
-* [R. Duda, P. Hart, D. Stork (2000). *Pattern classification*.](){:target="_blank"}
+* [R. Duda, P. Hart, D. Stork (2000). *Pattern classification*.](http://library.lol/main/FDFDEA9D8171EF45F0B2EEA8030490D0){:target="_blank"}
 
 * [C. Bishop (2000). *Pattern Recognition and Machine Learning*.](){:target="_blank"}
 
