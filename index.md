@@ -32,7 +32,7 @@
 
 * [R. Duda, P. Hart, D. Stork (2000). *Pattern classification*.](http://library.lol/main/FDFDEA9D8171EF45F0B2EEA8030490D0){:target="_blank"}
 
-* [C. Bishop (2000). *Pattern Recognition and Machine Learning*.](){:target="_blank"}
+* [C. Bishop (2000). *Pattern Recognition and Machine Learning*.](http://library.lol/main/B616EF565E2D48AE23EE2E19D7B0ADD2){:target="_blank"}
 
 * [T. Hastie, R. Tibshirani, J. Friedman (2013). *The Elements of Statistical Learning*.](){:target="_blank"}
 
