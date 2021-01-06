@@ -34,7 +34,7 @@
 
 * [C. Bishop (2000). *Pattern Recognition and Machine Learning*.](http://library.lol/main/B616EF565E2D48AE23EE2E19D7B0ADD2){:target="_blank"}
 
-* [T. Hastie, R. Tibshirani, J. Friedman (2013). *The Elements of Statistical Learning*.](){:target="_blank"}
+* [T. Hastie, R. Tibshirani, J. Friedman (2013). *The Elements of Statistical Learning*.](http://library.lol/main/5F88A9F135B7AB31FBCF1729412560DC){:target="_blank"}
 
 * [K. Murphy (2012). *Machine Learning: a Probabilistic Perspective*.](){:target="_blank"}
 
