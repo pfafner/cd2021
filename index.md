@@ -19,8 +19,7 @@
 
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  01       | 11.01.2020   | Introducción <br/> [Aula 01](aulas/ad01.pdf){:target="_blank"}      | [Lectura interesante I](lecturas/l1.pdf){:target="_blank"} <br/> [Lectura interesante II](lecturas/l2.pdf){:target="_blank"}
-  02       | 14.01.2020   | Distribuciones <br/> [Aula 02](aulas/ad02.pdf){:target="_blank"}    |  
+  01       | 11.01.2020   | Introducción <br/> [Aula 01](aulas/ad01.pdf){:target="_blank"}      | [Lectura interesante I](lecturas/l1.pdf){:target="_blank"} <br/> [Lectura interesante II](lecturas/l2.pdf){:target="_blank"}  
 
 
 # Referencias
