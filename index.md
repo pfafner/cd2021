@@ -19,7 +19,7 @@
 
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  01       | 11.01.2020   | Introducción <br/> [Aula 01](aulas/cd01.pdf){:target="_blank"}      | [(I. Carmichael, J.) Data Science vs. Statistics: Two Cultures?](lecturas/carmichael_marron.pdf){:target="_blank"}
+  01       | 11.01.2020   | Introducción <br/> [Aula 01](aulas/cd01.pdf){:target="_blank"}      | [(I. Carmichael, J.S.) Data Science vs. Statistics: Two Cultures?](lecturas/carmichael_marron.pdf){:target="_blank"}
 
 
 # Referencias
