@@ -19,7 +19,7 @@
 
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  01       | 11.01.2020   | Introducción <br/> [Aula 01](aulas/ad01.pdf){:target="_blank"}      | [Lectura interesante I](lecturas/l1.pdf){:target="_blank"}
+  01       | 11.01.2020   | Introducción <br/> [Aula 01](aulas/cd01.pdf){:target="_blank"}      | [Lectura interesante I](lecturas/carmichael_marron.pdf){:target="_blank"}
 
 
 # Referencias
