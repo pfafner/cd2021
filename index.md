@@ -7,11 +7,15 @@
 
 [Programa del curso](programa/Programa-cd2021.pdf){:target="_blank"}
 
+### Horario
+<div id='id-horario'/>
+
+* Lunes y jueves, 15:40 a 17:20 horas.  Laboratorio: A definir.
 
 ### Office Hours
 <div id='id-office'/>
 
-* Viernes de 16:00 a 17:00 horas, o por solicitud del estudiante. Pueden también enviar sus dudas por correo electrónico.
+* Viernes de 16:00 a 17:00 horas, o por solicitud del estudiante. También pueden enviar sus dudas por correo electrónico.
 
 
 # Material del curso
