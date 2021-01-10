@@ -1,6 +1,7 @@
 # Introducción a la Ciencia de Datos 2021
 
-#### Under construction !!!
+Este es un curso introductorio a la ciencia de datos, con un énfasis principalmente en los fundamentos matemáticos y estadísticos de algoritmos de aprendizaje automáticos y reconocimiento de patrones. El tema central del curso es el estudio de métodos para obtener información útil a partir de datos. Al final del curso, los estudiantes comprederán, tanto en la teoría como en la práctica, las etapas necesarias para producir un estudio o análisis de datos, desde la concepción de un problema, hasta la generación de un informe técnico de análisis. Para aprovechar de mejor manera el curso, es recomendable que los estudiantes estén familiarizados con temas de álgebra lineal, cálculo, estadística matemática, y tener conocimientos de al menos un lenguaje de programación (*e.g.* Python, R, Matlab, C++, u otros).
+
 
 # Programa del curso
 <div id='id-programa'/>
