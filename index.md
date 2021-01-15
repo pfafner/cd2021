@@ -25,8 +25,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
   01       | 11.01.2020   | Introducción <br/> [Aula 01](aulas/aula01.pdf){:target="_blank"}      | [(I. Carmichael, J.S. Marron) Data Science vs. Statistics: Two Cultures?](lecturas/carmichael_marron.pdf){:target="_blank"} 
-  02       | 14.01.2020   | Probabilidad <br/> [Aula 02](aulas/aula02.pdf){:target="_blank"} <br/>  **Obs.** me falta corregir el problema del cumpleaños.   |  
- [(K.-L. Chung) A cCourse in Probability Theory](http://library.lol/main/6B122D4F68618DB5F1893F0296CB2491){:target="_blank"}
+  02       | 14.01.2020   | Probabilidad <br/> [Aula 02](aulas/aula02.pdf){:target="_blank"}    | **Obs.** me falta corregir el problema del cumpleaños. <br/> [(K.-L. Chung) A Course in Probability Theory](http://library.lol/main/6B122D4F68618DB5F1893F0296CB2491){:target="_blank"}
 
 # Referencias
 <div id='id-ref'/>
