@@ -25,6 +25,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
   01       | 11.01.2020   | Introducción <br/> [Aula 01](aulas/aula01.pdf){:target="_blank"}      | [(I. Carmichael, J.S. Marron) Data Science vs. Statistics: Two Cultures?](lecturas/carmichael_marron.pdf){:target="_blank"} 
+  -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
+  02       | 14.01.2020   | Introducción <br/> [Aula 01](aulas/aula01.pdf){:target="_blank"}      | [(I. Carmichael, J.S. Marron) Data Science vs. Statistics: Two Cultures?](lecturas/carmichael_marron.pdf){:target="_blank"} 
 
 
 # Referencias
