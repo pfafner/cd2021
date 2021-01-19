@@ -25,8 +25,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
   01       | 11.01.2020   | Introducción <br/> [Aula 01](aulas/aula01.pdf){:target="_blank"}      | [(I. Carmichael, J.S. Marron) Data Science vs. Statistics: Two Cultures?](lecturas/carmichael_marron.pdf){:target="_blank"} 
-  02       | 14.01.2020   | Probabilidad <br/> [Aula 02](aulas/aula02.pdf){:target="_blank"}    | **Obs.** Ya corregí los ejercicios! <br/> [(K.-L. Chung) A Course in Probability Theory](http://library.lol/main/6B122D4F68618DB5F1893F0296CB2491){:target="_blank"}  
-  03       | 18.01.2020   | Probabilidad condicional <br/> [Aula 03](aulas/aula03.pdf){:target="_blank"}  | [(M. Lefebvre) Basic Probability with Applications](http://library.lol/main/F3B9314CA31E0289D5FCD6EEDA01308A) <br/ >**Obs.** Terminar de leer el material del aula 3 para el jueves. <br/ > Al final hay una tarea moral (voy a preguntar).
+  02       | 14.01.2020   | Probabilidad <br/> [Aula 02](aulas/aula02.pdf){:target="_blank"}    | **Obs.** Ya corregí todos los ejemplos! <br/> **Obs.** Se incluye la solución del problema del cumpleaños (corregida)! <br/> [(K.-L. Chung) A Course in Probability Theory](http://library.lol/main/6B122D4F68618DB5F1893F0296CB2491){:target="_blank"}  
+  03       | 18.01.2020   | Probabilidad condicional <br/> Variables aleatorias <br/> [Aula 03](aulas/aula03.pdf){:target="_blank"}  | [(M. Lefebvre) Basic Probability with Applications](http://library.lol/main/F3B9314CA31E0289D5FCD6EEDA01308A) <br/ > **Obs.** Terminar de leer el material del aula 3 para el jueves. <br/ > Al final hay una tarea moral (voy a preguntar).
 
 # Referencias
 <div id='id-ref'/>
