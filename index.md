@@ -27,7 +27,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   01       | 11.01.2021   | Introducción <br/> [Aula 01](aulas/aula01.pdf){:target="_blank"}    | [(I. Carmichael, J.S. Marron) Data Science vs. Statistics: Two Cultures?](lecturas/carmichael_marron.pdf){:target="_blank"} 
   02       | 14.01.2021   | Probabilidad <br/> [Aula 02](aulas/aula02.pdf){:target="_blank"}    | **Obs.** Ya corregí todos los ejemplos! <br/> **Obs.** Se incluye la solución del problema del cumpleaños (corregida)! <br/> [(K.-L. Chung) A Course in Probability Theory](http://library.lol/main/6B122D4F68618DB5F1893F0296CB2491){:target="_blank"}  
   03       | 18.01.2021   | Proba. condicional <br/> Variables aleatorias <br/> [Aula 03](aulas/aula03.pdf){:target="_blank"}  | **Para el jueves:** Terminar de leer el material del aula03. <br/> Al final hay una tarea moral (voy a preguntar). <br/> [(M. Lefebvre) Basic Probability with Applications](http://library.lol/main/F3B9314CA31E0289D5FCD6EEDA01308A){:target="_blank"}
-           | 22.01.2021   |                                                                     | [Lista de ejercicios 1, parte 1](){:target="_blank"} <br/> *No se entregan todos* Los que se indiquen se entregarán junto con la parte 2.           
+           | 21.01.2021   |                                                                     | [Lista de ejercicios 1, parte A](listas/lista01a){:target="_blank"} <br/> *No se entregan todos* Los que se indiquen se entregarán junto con la parte B.            
   04       |              |                                                                     |
 
 # Referencias
