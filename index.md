@@ -28,8 +28,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   02       | 14.01.2021   | Probabilidad <br/> [Aula 02](aulas/aula02.pdf){:target="_blank"}    | **Obs.** Ya corregí todos los ejemplos! <br/> **Obs.** Se incluye la solución del problema del cumpleaños (corregida)! <br/> [(K.-L. Chung) A Course in Probability Theory](http://library.lol/main/6B122D4F68618DB5F1893F0296CB2491){:target="_blank"}  
   03       | 18.01.2021   | Proba. condicional <br/> Variables aleatorias <br/> [Aula 03](aulas/aula03.pdf){:target="_blank"}  | **Para el jueves:** Terminar de leer el material del aula03. <br/> Al final hay una tarea moral (voy a preguntar). <br/> [(M. Lefebvre) Basic Probability with Applications](http://library.lol/main/F3B9314CA31E0289D5FCD6EEDA01308A){:target="_blank"}
   L1a      | 21.01.2021   |                                                                     | [Lista de ejercicios 1, parte A](listas/lista01a.pdf){:target="_blank"} <br/> *Entregar sólo ejercicios: 1, 7, 8, 11, 12.* Se entregarán junto con la parte B.
-  05       | 21.01.2021   |                                                                     |
-  05       | 25.01.2021   |                                                                     |
+  04       | 21.01.2021   | Variables aleatorias <br/>                                          |
+  05       | 25.01.2021   | Variables aleatorias discretas. <br/>                               |
   06       |              |                                                                     |
 
 # Referencias
