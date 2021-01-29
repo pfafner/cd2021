@@ -29,7 +29,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   03       | 18.01.2021   | Proba. condicional <br/> Variables aleatorias <br/> [Aula 03](aulas/aula03.pdf){:target="_blank"}  | Lefebvre, capítulo 2, pp. 27--54. <br/> [(M. Lefebvre) Basic Probability with Applications](http://library.lol/main/F3B9314CA31E0289D5FCD6EEDA01308A){:target="_blank"}
   L1a      | 21.01.2021   |                                                                     | **[Lista de ejercicios 1, parte A](listas/lista01a.pdf){:target="_blank"}** <br/> *Entregar sólo ejercicios: 1, 7, 8, 11, 12.* Se entregarán junto con la parte B.
   04       | 21.01.2021   | Variables aleatorias <br/> [Aula 04](aulas/aula04.pdf){:target="_blank"} |  Lefebvre, sección 3.1, pp. 55--60  
-  05       | 25.01.2021   | Variables aleatorias discretas. Resúmenes de distribuciones <br/> [Aula 05](aulas/aula05.pdf){:target="_blank"} | **Obs.** Versión actualizada de aula05 con lo que vimos el jueves 27. <br/> Lefebvre, sección 3.2, pp. 61--69
+  05       | 25.01.2021   | Variables aleatorias discretas. Resúmenes de distribuciones <br/> [Aula 05](aulas/aula05.pdf){:target="_blank"} | **Obs.** Versión actualizada del Aula 05 con lo que vimos el jueves 27. <br/> Lefebvre, sección 3.2, pp. 61--69
   06       |              |                                                                     |  **Obs.** El viernes o sábado voy a subir material de variables aleatorias continuas y resúmenes de distribuciones.
   L1b      |              |                                                                     |  **Obs.** El viernes o sábado voy la parte B de la Lista 1.
 # Referencias
