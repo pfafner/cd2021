@@ -32,6 +32,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   05       | 25.01.2021   | Variables aleatorias discretas. Resúmenes de distribuciones. <br/> [Aula 05](aulas/aula05.pdf){:target="_blank"} | **Obs.** Versión actualizada del Aula 05 con lo que vimos el jueves 27. <br/> Lefebvre, sección 3.2, pp. 61--69
   06       | 28.01.2021   |                                                                     |  **Obs.** El viernes o sábado voy a añadir material de variables aleatorias continuas y resúmenes de distribuciones.
   L1b      |              |                                                                     |  **Obs.** El viernes o sábado voy a agregar la parte B de la Lista 1.
+
+
 # Referencias
 <div id='id-ref'/>
 
