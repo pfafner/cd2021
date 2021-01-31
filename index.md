@@ -30,7 +30,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   L1a      | 21.01.2021   |                                                                     | **[Lista de ejercicios 1, parte A](listas/lista01a.pdf){:target="_blank"}** <br/> *Entregar sólo ejercicios: 1, 7, 8, 11, 12.* Se entregarán junto con la parte B.
   04       | 21.01.2021   | Variables aleatorias <br/> [Aula 04](aulas/aula04.pdf){:target="_blank"} |  Lefebvre, sección 3.1, pp. 55--60  
   05       | 25.01.2021   | Variables aleatorias discretas. Resúmenes de distribuciones. <br/> [Aula 05](aulas/aula05.pdf){:target="_blank"} | **Obs.** Versión actualizada del Aula 05 con lo que vimos el jueves 28. <br/> Lefebvre, sección 3.2, pp. 61--69
-  06       | 28.01.2021   | Variables aleatorias continuas. Resúmenes de distribuciones. <br/> [Aula 06](aulas/aula06.pdf){:target="_blank"} | Material sobre variables aleatorias continuas y resúmenes de distribuciones. <br/> Lefebvre, sección 3.3, pp. 70--80
+  06       | 28.01.2021   | Variables aleatorias continuas. Resúmenes de distribuciones. <br/> [Aula 06](aulas/aula06.pdf){:target="_blank"} | Material sobre v.a. continuas y resúmenes de distribuciones. <br/> Lefebvre, sección 3.3, pp. 70--80
   07       | 30.01.2021   | Ejemplos de distribuciones. <br/> [Aula 07](aulas/aula07.pdf){:target="_blank"} | Material sobre distribuciones.  <br/> Lefebvre, capítulos 3 y 4 (el 4 es sobre multivariadas).
   L1b      | 30.01.2021   |                                                                     |  **[Lista de ejercicios 1, parte B](listas/lista01b.pdf){:target="_blank"}** <br/> *Entregar sólo ejercicios: 1, 2, 4, 5.* <br/> **Fecha de entrega: Lunes 8 de febrero.**
 
