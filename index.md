@@ -41,7 +41,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
 
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  00       | 01.02.2021   |                                                                     | [Anaconda+Tensorflow+Jupyter installation guide](otros/Anaconda+Tensorflow+Jupyter installation guide.pdf){:target="_blank"} 
+  00       | 01.02.2021   |                                                                     | [Anaconda+Tensorflow+Jupyter installation guide](otros/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"} 
 
 
 # Referencias
