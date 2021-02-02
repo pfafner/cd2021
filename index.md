@@ -41,7 +41,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
 
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  00       | 01.02.2021   | Tener instalado y probabo para el sábado!!                          | [Anaconda+Tensorflow+Jupyter installation guide](otros/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"} <br/> *Archivos auxiliares:* [plotmatrix.py](otros/plotmatryx.py){:target="_blank"} [test.ipynb](otros/test.ipynb){:target="_blank"}
+  00       | 01.02.2021   | Tener instalado y probado para el sábado!!                          | [Anaconda+Tensorflow+Jupyter installation guide](otros/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"} <br/> *Archivos auxiliares:* [plotmatrix.py](otros/plotmatryx.py){:target="_blank"} [test.ipynb](otros/test.ipynb){:target="_blank"}
 
 
 # Referencias
