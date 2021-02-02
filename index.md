@@ -33,7 +33,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   06       | 28.01.2021   | Variables aleatorias continuas. Resúmenes de distribuciones. <br/> [Aula 06](aulas/aula06.pdf){:target="_blank"} | Material sobre v.a. continuas y resúmenes de distribuciones. <br/> Lefebvre, sección 3.3, pp. 70--80
   07       | 30.01.2021   | Ejemplos de distribuciones. <br/> [Aula 07](aulas/aula07.pdf){:target="_blank"} | Material sobre distribuciones.  <br/> Lefebvre, capítulos 3 y 4 (el 4 es sobre multivariadas).
   L1b      | 30.01.2021   |                                                                     |  **[Lista de ejercicios 1, parte B](listas/lista01b.pdf){:target="_blank"}** <br/> *Entregar sólo ejercicios: 1, 2, 4, 5.* <br/> **Fecha de entrega: Lunes 8 de febrero.**
-  08       | 01.02.2021   | Técnicas de visualización <br/> Análisis de componentes principales. <br/> [Aula 08](aulas/aula08.pdf){:target="_blank"} | 
+  08       | 01.02.2021   | Técnicas de visualización. Análisis de componentes principales. <br/> [Aula 08](aulas/aula08.pdf){:target="_blank"} | 
   .        |              |                                                                     | 
 
 # Material adicional (labs)
@@ -41,7 +41,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
 
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  00       | 01.02.2021   | Tener instalado y probado para el sábado!!                          | [Anaconda+Tensorflow+Jupyter installation guide](otros/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"} <br/> *Archivos auxiliares:* [plotmatrix.py](otros/plotmatryx.py){:target="_blank"} [test.ipynb](otros/test.ipynb){:target="_blank"}
+  00       | 01.02.2021   | Tener instalado y probado para el sábado!!                          | [Anaconda+Tensorflow+Jupyter installation guide](otros/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"} <br/> *Archivos auxiliares:* [plotmatrix.py](otros/plotmatrix.py){:target="_blank"} [test.ipynb](otros/test.ipynb){:target="_blank"}
 
 
 # Referencias
