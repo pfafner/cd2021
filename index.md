@@ -35,7 +35,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   L1b      | 30.01.2021   |                                                                     |  **[Lista de ejercicios 1, parte B](listas/lista01b.pdf){:target="_blank"}** <br/> *Entregar sólo ejercicios: 1, 2, 4, 5.* <br/> **Fecha de entrega: Lunes 8 de febrero.**
   08       | 01.02.2021   | Técnicas de visualización. Análisis de componentes principales. <br/> [Aula 08](aulas/aula08.pdf){:target="_blank"} | 
   09       | 01.02.2021   | Análisis de componentes principales. <br/> [Aula 09](aulas/aula09.pdf){:target="_blank"} | 
-  .        |              |                                                                     | 
+  
 
 # Material adicional (labs)
 <div id='id-labs'/>
