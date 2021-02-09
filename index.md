@@ -34,9 +34,9 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   07       | 30.01.2021   | Ejemplos de distribuciones. <br/> [Aula 07](aulas/aula07.pdf){:target="_blank"} | Material sobre distribuciones.  <br/> Lefebvre, capítulos 3 y 4 (el 4 es sobre multivariadas).
   L1b      | 30.01.2021   |                                                                     |  **[Lista de ejercicios 1, parte B](listas/lista01b.pdf){:target="_blank"}** <br/> *Entregar sólo ejercicios: 1, 2, 4, 5.* <br/> **Fecha de entrega: Lunes 8 de febrero.**
   08       | 01.02.2021   | Técnicas de visualización. Análisis de componentes principales. <br/> [Aula 08](aulas/aula08.pdf){:target="_blank"} | 
-  09       | 01.02.2021   | Análisis de componentes principales. <br/> [Aula 09](aulas/aula09.pdf){:target="_blank"} | 
-  .        |              |                                                                     | 
- 
+  09       | 04.02.2021   | Análisis de componentes principales. <br/> [Aula 09](aulas/aula09.pdf){:target="_blank"} | 
+  10       | 08.02.2021   | Interpretación de PCA. Errores comunes. Ejemplos y aplicaciones. <br/> [Aula 10](aulas/aula10.pdf){:target="_blank"} | **Obs!** Abajo aparecen los enlaces al material sobre Python y Pandas.
+   
 
 # Material adicional (labs)
 <div id='id-labs'/>
@@ -48,7 +48,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   .        | 08.02.2021   | Errores comunes en PCA.                                              | [meteo-users.ipynb](labs/meteo-users.ipynb){:target="_blank"} <br/> [meteo-users.csv](labs/meteo-users.csv){:target="_blank"}
 
 
-# Material sobre Python (textos, videos)
+# Material sobre Python (textos, videos) **Agradezcan a J-Lo por las referencias!**
 <div id='id-python'/>
 
 * [R. Gonzáles Duque. *Python para todos*.](lecturas/Python_para_todos.pdf){:target="_blank"}
