@@ -36,6 +36,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   08       | 01.02.2021   | Técnicas de visualización. Análisis de componentes principales. <br/> [Aula 08](aulas/aula08.pdf){:target="_blank"} | 
   09       | 04.02.2021   | Análisis de componentes principales. <br/> [Aula 09](aulas/aula09.pdf){:target="_blank"} | 
   10       | 08.02.2021   | Interpretación de PCA. Errores comunes. Ejemplos y aplicaciones. <br/> [Aula 10](aulas/aula10.pdf){:target="_blank"} | **Obs!** Abajo aparecen los enlaces al material sobre Python y Pandas. <br/> *Agradezcan a JLo por las referencias!*
+  11       | 11.02.2021   | Escalamiento multidimensional. <br/> [Aula 11](aulas/aula11.pdf){:target="_blank"} | Material sobre el problema de transformar una distribución uniforme. <br/> [Simulación en la esfera](code/simulation.ipynb){:target="_blank"}
    
 
 # Material adicional (labs)
