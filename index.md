@@ -47,7 +47,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   00       | 01.02.2021   | Tener instalado y probado para el sábado!!                          | [Anaconda+Tensorflow+Jupyter installation guide](otros/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"} <br/> *Archivos auxiliares:* [plotmatrix.py](otros/plotmatrix.py){:target="_blank"} [test.ipynb](otros/test.ipynb){:target="_blank"}
   01       | 06.02.2021   | Lectura archivo csv. Exploración de datos. Estandarización. Descomposición SVD. Análisis de componentes principales. | [lab01.ipynb](labs/Lab01.ipynb){:target="_blank"} <br/> [lab01_R.ipynb](labs/Lab01_R.ipynb){:target="_blank"} <br/> [deport.csv](labs/deport.csv){:target="_blank"}
   .        | 08.02.2021   | Errores comunes en PCA.                                              | [meteo-users.ipynb](labs/meteo-users.ipynb){:target="_blank"} <br/> [meteo-users.csv](labs/meteo-users.csv){:target="_blank"}
-
+  02       | 13.02.2021   | Procesamiento de imágenes. RGB a escala de grises. Crop. Histogramas. Transformaciones básicas. | [lab02.ipynb](labs/Lab02.ipynb){:target="_blank"} <br/> [quetzal.png](labs/quetzal.png){:target="_blank"}
 
 # Material sobre Python (textos, videos)
 <div id='id-python'/>
