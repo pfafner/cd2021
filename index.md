@@ -39,6 +39,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   11       | 11.02.2021   | Escalamiento multidimensional. <br/> [Aula 11](aulas/aula11.pdf){:target="_blank"} | Material sobre el problema de transformar una distribución uniforme. <br/> [Distribución uniforme en la esfera](labs/sphere-uniform.pdf){:target="_blank"}
   L2      | 13.02.2021   |                                                                     |  **[Lista de ejercicios 2](listas/lista02.pdf){:target="_blank"}** <br/> [crimes.dat](listas/crimes.dat){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} <br/> **Fecha de entrega: Martes 23 de febrero.**
   12       | 15.02.2021   | PCA Robusto. Kernel PCA. <br/> [Aula 12](aulas/aula12.pdf){:target="_blank"} | 
+  13       | 18.02.2021   | Variables latentes. Análisis de componentes independientes. <br/> [Aula 13](aulas/aula13.pdf){:target="_blank"} | 
    
 
 # Material adicional (labs)
