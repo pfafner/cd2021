@@ -34,13 +34,14 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   07       | 30.01.2021   | Ejemplos de distribuciones. <br/> [Aula 07](aulas/aula07.pdf){:target="_blank"} | Material sobre distribuciones.  <br/> Lefebvre, capítulos 3 y 4 (el 4 es sobre multivariadas).
   L1b      | 30.01.2021   |                                                                     |  **[Lista de ejercicios 1, parte B](listas/lista01b.pdf){:target="_blank"}** <br/> *Entregar sólo ejercicios: 1, 2, 4, 5.* <br/> **Fecha de entrega: Lunes 8 de febrero.**
   08       | 01.02.2021   | Técnicas de visualización. Análisis de componentes principales. <br/> [Aula 08](aulas/aula08.pdf){:target="_blank"} | 
-  09       | 04.02.2021   | Análisis de componentes principales. <br/> [Aula 09](aulas/aula09.pdf){:target="_blank"} | 
+  09       | 04.02.2021   | Análisis de componentes principales <br/> [Aula 09](aulas/aula09.pdf){:target="_blank"} | 
   10       | 08.02.2021   | Interpretación de PCA. Errores comunes. Ejemplos y aplicaciones. <br/> [Aula 10](aulas/aula10.pdf){:target="_blank"} | **Obs!** Abajo aparecen los enlaces al material sobre Python y Pandas. <br/> *Agradezcan a JLo por las referencias!*
-  11       | 11.02.2021   | Escalamiento multidimensional. <br/> [Aula 11](aulas/aula11.pdf){:target="_blank"} | Material sobre el problema de transformar una distribución uniforme. <br/> [Distribución uniforme en la esfera](labs/sphere-uniform.pdf){:target="_blank"}
+  11       | 11.02.2021   | Escalamiento multidimensional <br/> [Aula 11](aulas/aula11.pdf){:target="_blank"} | Material sobre el problema de transformar una distribución uniforme. <br/> [Distribución uniforme en la esfera](labs/sphere-uniform.pdf){:target="_blank"}
   L2      | 13.02.2021   |                                                                     |  **[Lista de ejercicios 2](listas/lista02.pdf){:target="_blank"}** <br/> [crimes.dat](listas/crimes.dat){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} <br/> **Fecha de entrega: Martes 23 de febrero.**
   12       | 15.02.2021   | PCA Robusto. Kernel PCA. <br/> [Aula 12](aulas/aula12.pdf){:target="_blank"} | 
   13       | 18.02.2021   | Variables latentes. Análisis de componentes independientes. <br/> [Aula 13](aulas/aula13.pdf){:target="_blank"} | 
-  14       | 22.02.2021   | Factoracion no-negativa de matrices. <br/> [Aula 14](aulas/aula14.pdf){:target="_blank"} |  **Obs!. ** El archivo no está completo. Me falta agregar el material sobre análisis semántico latente: LSA, LDA y FA y ejemplos (lo que vimos fuera de las diapositivas).
+  14       | 22.02.2021   | Factoracion no-negativa de matrices <br/> [Aula 14](aulas/aula14.pdf){:target="_blank"} |  **Obs!. ** El archivo no está completo. Me falta agregar el material sobre análisis semántico latente: LSA, LDA y FA y ejemplos (lo que vimos fuera de las diapositivas).
+  15       | 25.02.2021   | Métodos locales <br/> [Aula 15](aulas/aula15.pdf){:target="_blank"} |  
   
 
 # Material adicional (labs)
