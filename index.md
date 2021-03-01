@@ -45,7 +45,6 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   L3       | 28.02.2021   |                                                                       | **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}**
   15       | 01.03.2021   | Métodos locales II                                                    |
   .        |              |                                                                       |
-  .        |              |                                                                       |
   
 
 # Material adicional (labs)
