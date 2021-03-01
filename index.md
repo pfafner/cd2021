@@ -42,6 +42,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   13       | 18.02.2021   | Variables latentes. Análisis de componentes independientes. <br/> [Aula 13](aulas/aula13.pdf){:target="_blank"} | 
   14       | 22.02.2021   | Factoracion no-negativa de matrices <br/> [Aula 14](aulas/aula14.pdf){:target="_blank"} |  **Obs!. ** El archivo no está completo. Me falta agregar el material sobre análisis semántico latente: LSA, LDA y FA y ejemplos (lo que vimos fuera de las diapositivas).
   15       | 25.02.2021   | Métodos locales I <br/> [Aula 15](aulas/aula15.pdf){:target="_blank"} |  
+  .        |              |                                                                       |
   
 
 # Material adicional (labs)
