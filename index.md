@@ -43,7 +43,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   14       | 22.02.2021   | Factoracion no-negativa de matrices <br/> [Aula 14](aulas/aula14.pdf){:target="_blank"} |  **Obs!** El archivo no está completo. Me falta agregar el material sobre análisis semántico latente: LSA, LDA y FA y ejemplos (lo que vimos fuera de las diapositivas).
   15       | 25.02.2021   | Métodos locales I <br/> [Aula 15](aulas/aula15.pdf){:target="_blank"} |  
   L3       | 28.02.2021   |                                                                       | **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 11 de marzo.**
-  16       | 01.03.2021   | Métodos locales II <br/> [Aula 16](aulas/aula16.pdf){:target="_blank"} |
+  16       | 01.03.2021   | Métodos locales II <br/> [Aula 16](aulas/aula16.pdf){:target="_blank"} | Pendiente de agregar los ejemplos en Python.
   17       | 04.03.2021   | Funciones kernel. Construcción de distribuciones empíricas.            | 
   
 
