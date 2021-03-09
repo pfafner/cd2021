@@ -45,6 +45,9 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   L3       | 28.02.2021   |                                                                       | **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 11 de marzo.**
   16       | 01.03.2021   | Métodos locales II <br/> [Aula 16](aulas/aula16.pdf){:target="_blank"} | Pendiente de agregar los ejemplos en Python.
   17       | 04.03.2021   | Funciones kernel. Construcción de distribuciones empíricas.            | Pendiente de agregar los ejemplos en Python. <br/> Estaré agregando las notas más adelante.
+  18       | 08.03.2021   | Agrupamiento jerárquico <br/> [Aula 18](aulas/aula18.pdf){:target="_blank"} | Pendiente de agregar los ejemplos en Python.
+  
+  
   
 
 # Material adicional (labs)
