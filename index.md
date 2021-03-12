@@ -47,7 +47,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   17       | 04.03.2021   | Funciones kernel. Construcción de distribuciones empíricas.            | Pendiente de agregar los ejemplos en Python. <br/> Estaré agregando las notas más adelante.
   18       | 08.03.2021   | Agrupamiento jerárquico <br/> [Aula 18](aulas/aula18.pdf){:target="_blank"} | Ejemplos de visualización de dendogramas: <br/> [Paper Covid19-1](lecturas/s41467-020-18854-2.pdf){:target="_blank"} [Paper Covid19-2](lecturas/eabe2555.full.pdf){:target="_blank"}
   19       | 11.03.2021   | K-medias, K-medianas, K-medioides, Fuzzy K-medias. <br/> [Aula 19](aulas/aula19.pdf){:target="_blank"} |   
-  L4       | 11.03.2021   |                                                                       | **[Lista de ejercicios 4](listas/lista04.pdf){:target="_blank"}** <br/> **[hpi-data-2016.xlsx](listas/hpi-data-2'016.xlsx){:target="_blank"}** <br/> **Fecha de entrega: Domingo 22 de marzo.**
+  L4       | 11.03.2021   |                                                                       | **[Lista de ejercicios 4](listas/lista04.pdf){:target="_blank"}** <br/> [hpi-data-2016.xlsx](listas/hpi-data-2'016.xlsx){:target="_blank"} <br/> **Fecha de entrega: Domingo 22 de marzo.**
   
 
 # Material adicional (labs)
