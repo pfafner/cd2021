@@ -38,12 +38,12 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   10       | 08.02.2021   | Interpretación de PCA. Errores comunes. Ejemplos y aplicaciones. <br/> [Aula 10](aulas/aula10.pdf){:target="_blank"} | **Obs!** Abajo aparecen los enlaces al material sobre Python y Pandas. <br/> *Agradezcan a JLo por las referencias!*
   11       | 11.02.2021   | Escalamiento multidimensional <br/> [Aula 11](aulas/aula11.pdf){:target="_blank"} | Material sobre el problema de transformar una distribución uniforme. <br/> [Distribución uniforme en la esfera](labs/sphere-uniform.pdf){:target="_blank"}
   L2      | 13.02.2021   |                                                                     |  **[Lista de ejercicios 2](listas/lista02.pdf){:target="_blank"}** <br/> [crimes.dat](listas/crimes.dat){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} <br/> **Fecha de entrega: Martes 23 de febrero.**
-  12       | 15.02.2021   | PCA Robusto. Kernel PCA. <br/> [Aula 12](aulas/aula12.pdf){:target="_blank"} | 
-  13       | 18.02.2021   | Variables latentes. ICA. <br/> [Aula 13](aulas/aula13.pdf){:target="_blank"} | 
-  14       | 22.02.2021   | Factoracion no-negativa de matrices <br/> [Aula 14](aulas/aula14.pdf){:target="_blank"} |  **Obs!** El archivo no está completo. Me falta agregar el material sobre análisis semántico latente: LSA, LDA y FA y ejemplos (lo que vimos fuera de las diapositivas).
-  15       | 25.02.2021   | Métodos locales I <br/> [Aula 15](aulas/aula15.pdf){:target="_blank"} |  
+  12       | 15.02.2021   | PCA Robusto. Kernel PCA. <br/> [Aula 12](aulas/aula12.pdf){:target="_blank"} | Agregado ejemplo de KernelPCA.
+  13       | 18.02.2021   | Variables latentes. ICA. <br/> [Aula 13](aulas/aula13.pdf){:target="_blank"} | Agregados ejemplos de ICA.
+  14       | 22.02.2021   | Factoracion no-negativa de matrices <br/> [Aula 14](aulas/aula14.pdf){:target="_blank"} |  Agregados ejemplos de NNMF. <br/> **Obs!** El archivo no está completo. Me falta agregar el material sobre análisis semántico latente: LSA, LDA y FA y ejemplos (lo que vimos fuera de las diapositivas).
+  15       | 25.02.2021   | Métodos locales I <br/> [Aula 15](aulas/aula15.pdf){:target="_blank"} | Agregados ejemplos de *manifold learning*. 
   L3       | 28.02.2021   |                                                                       | **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 11 de marzo.**
-  16       | 01.03.2021   | Métodos locales II <br/> [Aula 16](aulas/aula16.pdf){:target="_blank"} | Pendiente de agregar los ejemplos en Python.
+  16       | 01.03.2021   | Métodos locales II <br/> [Aula 16](aulas/aula16.pdf){:target="_blank"} | Faltan ejemplos de SOM.
   17       | 04.03.2021   | Funciones kernel. Construcción de distribuciones empíricas.            | Pendiente de agregar los ejemplos en Python. <br/> Estaré agregando las notas más adelante.
   18       | 08.03.2021   | Agrupamiento jerárquico <br/> [Aula 18](aulas/aula18.pdf){:target="_blank"} | Ejemplos de visualización de dendogramas: <br/> [Paper Covid19-1](lecturas/s41467-020-18854-2.pdf){:target="_blank"} [Paper Covid19-2](lecturas/eabe2555.full.pdf){:target="_blank"}
   19       | 11.03.2021   | K-medias, K-medianas, K-medioides, Fuzzy K-medias. <br/> [Aula 19](aulas/aula19.pdf){:target="_blank"} |   
