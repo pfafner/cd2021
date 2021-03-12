@@ -61,8 +61,9 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   .        | 08.02.2021   | Errores comunes en PCA.                                              | [meteo-users.ipynb](labs/meteo-users.ipynb){:target="_blank"} <br/> [meteo-users.csv](labs/meteo-users.csv){:target="_blank"}
   02       | 13.02.2021   | Procesamiento de imágenes. RGB a escala de grises. Crop. Histogramas. Transformaciones básicas. | [lab02.ipynb](labs/Lab02.ipynb){:target="_blank"} <br/> [quetzal.png](labs/quetzal.png){:target="_blank"}
   .        | 18.02.2021   | Ejemplo de ICA.                                                      | [ICA_examples.ipynb](labs/ICA_examples.ipynb){:target="_blank"} <br/> [horse.jpg](labs/horse.jpg){:target="_blank"} [morro.jpg](labs/morro.jpg){:target="_blank"} [plane.jpg](labs/plane.jpg){:target="_blank"} [race.jpg](labs/race.jpg){:target="_blank"}
-  .        | 22.02.2021   | Ejemplo de NNMF. Sistemas de recomendación.                          | [nnmf-recommender-system.ipynb](labs/nnmf-recommender-system.ipynb)
-  
+  .        | 22.02.2021   | Ejemplo de NNMF. Sistemas de recomendación.                          | [nnmf-recommender-system.ipynb](labs/nnmf-recommender-system.ipynb){:target="_blank"}
+  .        | 01.03.2021   | Ejemplo de KernelPCA. Ejemplos de *manifold learning*.               | [manifold.ipynb](labs/manifold.ipynb){:target="_blank"}
+
   
 
 # Material sobre Python (textos, videos)
