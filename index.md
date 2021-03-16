@@ -65,7 +65,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   .        | 01.03.2021   | Ejemplo de KernelPCA. Ejemplos de *manifold learning*.               | [manifold.ipynb](labs/manifold.ipynb){:target="_blank"}
   .        | 01.03.2021   | Ejemplo de SOM.                                                      | [DemocracyIndex.ipynb](labs/DemocracyIndex.ipynb){:target="_blank"} <br/> [democracy_index.csv](labs/democracy_index.csv){:target="_blank"}
   .        | 04.03.2021   | Funciones de base (kernel) radial.                                   | 
-  03       | 13.03.2021   | Agrupamiento jerárquico. K-medias.                                   | [hierarchical.ipynb](labs/hierarchical.ipynb){:target="_blank"} [k-means.ipynb](labs/k-means.ipynb){:target="_blank"} <br> [horse.jpg](labs/horse.jpg){:target="_blank"}
+  03       | 13.03.2021   | Agrupamiento jerárquico. K-medias.                                   | [hierarchical.ipynb](labs/hierarchical.ipynb){:target="_blank"} <br/> [k-means.ipynb](labs/k-means.ipynb){:target="_blank"} <br/> [horse.jpg](labs/horse.jpg){:target="_blank"}
   
 
 # Material sobre Python (textos, videos)
