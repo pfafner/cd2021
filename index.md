@@ -45,10 +45,12 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   L3       | 28.02.2021   |                                                                       | **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 11 de marzo.**
   16       | 01.03.2021   | Métodos locales II <br/> [Aula 16](aulas/aula16.pdf){:target="_blank"} | Faltan ejemplos de SOM.
   17       | 04.03.2021   | Funciones kernel. Construcción de distribuciones empíricas.            | Pendiente de agregar los ejemplos en Python. <br/> Estaré agregando las notas más adelante.
-  L4       | 07.03.2021   |                                                                       | **[Lista de ejercicios 4](listas/lista04.pdf){:target="_blank"}** <br/> [hpi-data-2016.xlsx](listas/hpi-data-2'016.xlsx){:target="_blank"} <br/> **Fecha de entrega: Domingo 22 de marzo.**
+  L4       | 07.03.2021   |                                                                       | **[Lista de ejercicios 4](listas/lista04.pdf){:target="_blank"}** <br/> [hpi-data-2016.xlsx](listas/hpi-data-2'016.xlsx){:target="_blank"} <br/> **Fecha de entrega: Lunes 22 de marzo.**
   18       | 08.03.2021   | Agrupamiento jerárquico <br/> [Aula 18](aulas/aula18.pdf){:target="_blank"} | Ejemplos de visualización de dendogramas: <br/> [Paper Covid19-1](lecturas/s41467-020-18854-2.pdf){:target="_blank"} [Paper Covid19-2](lecturas/eabe2555.full.pdf){:target="_blank"}
   19       | 11.03.2021   | K-medias, K-medianas, K-medioides, Fuzzy K-medias. <br/> [Aula 19](aulas/aula19.pdf){:target="_blank"} |   
   20       | 18.03.2021   | Mezclas gaussianas. Algoritmo EM. <br/> [Aula 20](aulas/aula20.pdf){:target="_blank"} |   
+  21       | 22.03.2021   | Agrupamiento espectral. [Aula 21](aulas/aula21.pdf){:target="_blank"} |    
+  P1       | 22.03.2021   |                                                                       | **[Proyecto 1](listas/proyecto1.pdf){:target="_blank"}** <br/> **Fecha de entrega: Lunes 12 de abril.** **Fecha de presentaciones: Lunes 12 y Jueves 15 de abril.**  
 
 # Material adicional (labs)
 <div id='id-labs'/>
