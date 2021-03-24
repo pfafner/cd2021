@@ -50,7 +50,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   19       | 11.03.2021   | K-medias, K-medianas, K-medioides, Fuzzy K-medias. <br/> [Aula 19](aulas/aula19.pdf){:target="_blank"} |   
   20       | 18.03.2021   | Mezclas gaussianas. Algoritmo EM. <br/> [Aula 20](aulas/aula20.pdf){:target="_blank"} |   
   21       | 22.03.2021   | Agrupamiento espectral. [Aula 21](aulas/aula21.pdf){:target="_blank"} |    
-  P1       | 22.03.2021   |                                                                       | **[Proyecto 1](listas/proyecto1.pdf){:target="_blank"}** <br/> **Fecha de entrega: Lunes 12 de abril.** <br/> **Fecha de presentaciones: Lunes 12 y Jueves 15 de abril.** <br/> Coordenadas estaciones: [stations.json](listas/stations.json){:target="_blank"}  [stations.csv](listas/stations.csv){:target="_blank"} 
+  P1       | 22.03.2021   |                                                                       | **[Proyecto 1](listas/proyecto1.pdf){:target="_blank"}** <br/> **Fecha de entrega: Lunes 12 de abril.** <br/> **Presentaciones: Lunes 12 y Jueves 15 de abril.** <br/> Coordenadas estaciones: [stations.json](listas/stations.json){:target="_blank"}  [stations.csv](listas/stations.csv){:target="_blank"} 
 
 # Material adicional (labs)
 <div id='id-labs'/>
