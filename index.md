@@ -49,8 +49,11 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   18       | 08.03.2021   | Agrupamiento jerárquico <br/> [Aula 18](aulas/aula18.pdf){:target="_blank"} | Ejemplos de visualización de dendrogramas: <br/> [Paper Covid19-1](lecturas/s41467-020-18854-2.pdf){:target="_blank"} [Paper Covid19-2](lecturas/eabe2555.full.pdf){:target="_blank"}
   19       | 11.03.2021   | K-medias, K-medianas, K-medioides, Fuzzy K-medias. <br/> [Aula 19](aulas/aula19.pdf){:target="_blank"} | Comentarios sobre la *maldición de la dimensionalidad* <br/> [Raúl Rojas dimensionality.pdf](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/dimensionality.pdf){:target="_blank"} <br/> Ver también Cap. 1 libro de Giraud.
   20       | 18.03.2021   | Mezclas gaussianas. Algoritmo EM. <br/> [Aula 20](aulas/aula20.pdf){:target="_blank"} |   
-  21       | 22.03.2021   | Agrupamiento espectral. [Aula 21](aulas/aula21.pdf){:target="_blank"} |    
+  21       | 22.03.2021   | Agrupamiento espectral. <br/> [Aula 21](aulas/aula21.pdf){:target="_blank"} |    
   P1       | 22.03.2021   |                                                                       | **[Proyecto 1](listas/proyecto1.pdf){:target="_blank"}** <br/> **Fecha de entrega: Lunes 12 de abril.** <br/> **Presentaciones: Lunes 12 y Jueves 15 de abril.** <br/> Coordenadas estaciones: [stations.json](listas/stations.json){:target="_blank"}  [stations.csv](listas/stations.csv){:target="_blank"} 
+  22       | 25.03.2021   | Métodos basados en densidades. <br/> [Aula 22](aulas/aula22.pdf){:target="_blank"} |   
+  23       | 25.03.2021   | Métricas para métodos de agrupamiento. <br/> [Aula 23](aulas/aula23.pdf){:target="_blank"} |    
+
 
 # Material adicional (labs)
 <div id='id-labs'/>
