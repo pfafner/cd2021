@@ -53,6 +53,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   P1       | 22.03.2021   |                                                                       | **[Proyecto 1](listas/proyecto1.pdf){:target="_blank"}** <br/> **Fecha de entrega: Lunes 12 de abril.** <br/> **Presentaciones: Lunes 12 y Jueves 15 de abril.** <br/> Coordenadas estaciones: [stations.json](listas/stations.json){:target="_blank"}  [stations.csv](listas/stations.csv){:target="_blank"} 
   22       | 25.03.2021   | Métodos basados en densidades. <br/> [Aula 22](aulas/aula22.pdf){:target="_blank"} |   
   23       | 25.03.2021   | Métricas para métodos de agrupamiento. <br/> [Aula 23](aulas/aula23.pdf){:target="_blank"} |    
+  .        | 31.03.2021   |                                                                       |    
 
 
 # Material adicional (labs)
