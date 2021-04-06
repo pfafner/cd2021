@@ -106,6 +106,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
 
 * [A. Izenman (2008). *Modern Multivariate Statistical Techniques: Regression, Classification and Manifold Learning*.](http://library.lol/main/B5E1DA4CD9133B468CA730402BBC7117){:target="_blank"}
 
+* [B. Everitt, T. Hothorn (2011). *An Introduction to Applied Multivariate Analysis with R*](http://library.lol/main/83BD38DABC018FE79C6AEEF726BF20D7){:target="_blank"}
+
 * [K. Fukunaga (1990). *Introduction to Statistical Pattern Recognition*.](http://library.lol/main/F1FC9B38F5E9F245C7CDE3AFEDED4D06){:target="_blank"}
 
 * [C. Giraud (2015). *Introduction to High-Dimensional Statistics*.](http://library.lol/main/38E216C9EFA26C09F5A2324BC3122F92){:target="_blank"}
