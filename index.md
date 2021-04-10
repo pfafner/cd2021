@@ -56,6 +56,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   24       | 05.04.2021  | Modelación predictiva. K vecinos más cercanos. <br/> [Aula 24](aulas/aula24.pdf){:target="_blank"} | Algunos demos interactivos <br/> [Demo1](http://vision.stanford.edu/teaching/cs231n-demos/knn/){:target="_blank"} [Demo2](https://martin-thoma.com/k-nearest-neighbor-classification-interactive-example/){:target="_blank"}
   L5       | 06.04.2021   |                                                                       | **[Lista de ejercicios 5](listas/lista05.pdf){:target="_blank"}** <br/> [heptatlon.csv](listas/heptatlon.csv){:target="_blank"} <br/> **Fecha de entrega: Viernes 23 de abril.**
   25       | 28.04.2021   | El clasificador bayesiano óptimo. <br/> [Aula 25](aulas/aula25.pdf){:target="_blank"} | 
+  .        |              |                                                                       | 
   
 
 # Material adicional (labs)
