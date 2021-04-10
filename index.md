@@ -78,6 +78,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   .        | 18.03.2021   | Gaussian misture models. Algoritmo EM.                               | [gmm.ipynb](labs/gmm.ipynb){:target="_blank"}
   .        | 22.03.2021   | Agrupamiento espectral.                                              | [spectral1.ipynb](labs/spectral1.ipynb){:target="_blank"} <br/> [spectral2.ipynb](labs/spectral2.ipynb){:target="_blank"}
   .        | 25.03.2021   | Métodos basados en densidad. Comparación. <br/> Métricas de evaluación para agrupamiento. | [density-based.ipynb](labs/density-based.ipynb){:target="_blank"} <br/> [comparison.ipynb](labs/comparison.ipynb){:target="_blank"} <br/> [silhouette.ipynb](labs/silhouette.ipynb){:target="_blank"}
+  .        |              |                                                                       | 
   
 
 # Material sobre Python (textos, videos)
