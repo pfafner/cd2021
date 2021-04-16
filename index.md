@@ -59,6 +59,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   26       | 12.04.2021   | Ejemplos de clasificador bayesiano. Clasificador *Naive Bayes*. <br>/ [Aula 26](aulas/aula26.pdf){:target="_blank"} | Algunos ejemplos <br/> [Ejemplo 1 (2 normales)](code/bayes_2normal_Example.ggb){:target="_blank"} <br>/[Ejemplo 2 (3 normales)](code/bayes_3normal_Example.ggb){:target="_blank"}
   27       | 15.04.2021   | Análisis discriminante (LDA y QDA). <br>/ [Aula 27](aulas/aula27.pdf){:target="_blank"} | 
 
+
 # Material adicional (labs)
 <div id='id-labs'/>
 
@@ -79,6 +80,24 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   .        | 22.03.2021   | Agrupamiento espectral.                                              | [spectral1.ipynb](labs/spectral1.ipynb){:target="_blank"} <br/> [spectral2.ipynb](labs/spectral2.ipynb){:target="_blank"}
   .        | 25.03.2021   | Métodos basados en densidad. Comparación. <br/> Métricas de evaluación para agrupamiento. | [density-based.ipynb](labs/density-based.ipynb){:target="_blank"} <br/> [comparison.ipynb](labs/comparison.ipynb){:target="_blank"} <br/> [silhouette.ipynb](labs/silhouette.ipynb){:target="_blank"}
   .        |              |                                                                       | 
+  
+
+# Presentaciones del primer seminario
+<div id='id-sem1'/>
+
+  **No.**  | **Fecha**    | **Expositor**                                                          | **Tópicos**
+  -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
+  01       | 19.04.2021   | Juan Lorthiois     <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  02       | 19.04.2021   | José Ramos         <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  03       | 19.04.2021   | Lorena Beltrán     <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  04       | 19.04.2021   | Rodrigo Morales    <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  05       | 19.04.2021   | Pablo Noack        <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  06       | 22.04.2021   | Karina Valladares  <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  07       | 22.04.2021   | José Lucha         <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  08       | 22.04.2021   | José López         <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  09       | 22.04.2021   | Javier Mejía       <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  10       | 22.04.2021   | José Menéndez      <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  11       | 22.04.2021   | Leonel Contreras   <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
   
 
 # Material sobre Python (textos, videos)
