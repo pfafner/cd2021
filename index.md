@@ -89,9 +89,9 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   **No.**  | **Fecha**    | **Expositor**                                                          | **Tópicos**
   -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
   01       | 19.04.2021   | Juan Lorthiois     <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
-  02       | 19.04.2021   | José Ramos         <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  02       | 19.04.2021   | José Ramos         <br/> [Presentación](seminario1/presentacion_JoseRamos.pdf){:target="_blank"}  | 
   03       | 19.04.2021   | Lorena Beltrán     <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
-  04       | 19.04.2021   | Rodrigo Morales    <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  04       | 19.04.2021   | Rodrigo Morales    <br/> [Presentación](seminario1/presentacion_Rodrigo.pdf){:target="_blank"}  | 
   05       | 19.04.2021   | Pablo Noack        <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
   06       | 22.04.2021   | Karina Valladares  <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
   07       | 22.04.2021   | José Lucha         <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
