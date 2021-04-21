@@ -90,15 +90,12 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
   01       | 19.04.2021   | Juan Lorthiois     <br/> [Presentación](seminario1/presentacion_Juan.pptx){:target="_blank"}  | 
   02       | 19.04.2021   | José Ramos         <br/> [Presentación](seminario1/presentacion_JoseRamos.pdf){:target="_blank"}  | 
-  04       | 19.04.2021   | Rodrigo Morales    <br/> [Presentación](seminario1/presentacion_Rodrigo.pdf){:target="_blank"}  | 
-  05       | 19.04.2021   | Pablo Noack        <br/> [Presentación](seminario1/presentacion_Pablo.pdf){:target="_blank"}  | 
-  06       | 22.04.2021   | Karina Valladares  <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
-  07       | 22.04.2021   | José Lucha         <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
-  08       | 22.04.2021   | José López         <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
-  09       | 22.04.2021   | Javier Mejía       <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
-  10       | 22.04.2021   | José Menéndez      <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
-  11       | 22.04.2021   | Leonel Contreras   <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
-  03       | 19.04.2021   | Lorena Beltrán     <br/> [Presentación](seminario1/presentacion_Pablo.pdf){:target="_blank"}  | 
+  03       | 19.04.2021   | Rodrigo Morales    <br/> [Presentación](seminario1/presentacion_Rodrigo.pdf){:target="_blank"}  | 
+  04       | 19.04.2021   | Pablo Noack        <br/> [Presentación](seminario1/presentacion_Pablo.pdf){:target="_blank"}  | 
+  05       | 22.04.2021   | José López         <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  06       | 22.04.2021   | Javier Mejía       <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  07       | 22.04.2021   | José Menéndez      <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  08       | 22.04.2021   | Lorena Beltrán     <br/> [Presentación](seminario1/s.pdf){:target="_blank"}  | 
   
 
 # Material sobre Python (textos, videos)
