@@ -83,7 +83,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   04       | 17.04.2021   | Clasificador y regresor Knn. Clasificador Naive Bayes.               | [knn.ipynb](labs/knn.ipynb){:target="_blank"} <br/> [bayes.ipynb](labs/bayes.ipynb){:target="_blank"}
   
 
-# Presentaciones del primer seminario
+# Presentaciones del primer seminario (Datos Ecobici)
 <div id='id-sem1'/>
 
   **No.**  | **Fecha**    | **Expositor**                                                          | **Tópicos**
