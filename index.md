@@ -94,8 +94,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   04       | 19.04.2021   | Pablo Noack        <br/> [Presentación](seminario1/presentacion_Pablo.pdf){:target="_blank"}  | Distribuciones de tiempos de recorrido y desplazamientos. Relación geoespacial contra distribuciones de frecuencia de demanda. Análisis de la matriz de frecuencias. Clusterización t-SNE por frecuencia.
   05       | 22.04.2021   | José López         <br/> [Presentación](seminario1/presentacion_JoseLopez.pdf){:target="_blank"}  | 
   06       | 22.04.2021   | Javier Mejía       <br/> [Presentación](seminario1/presentacion_Javier.pptx){:target="_blank"}  | 
-  07       | 22.04.2021   | José Menéndez      <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
-  08       | 22.04.2021   | Lorena Beltrán     <br/> [Presentación](seminario1/s.pdf){:target="_blank"}  | 
+  07       | 24.04.2021   | José Menéndez      <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  08       | 24.04.2021   | Lorena Beltrán     <br/> [Presentación](seminario1/s.pdf){:target="_blank"}  | 
   
 
 # Material sobre Python (textos, videos)
