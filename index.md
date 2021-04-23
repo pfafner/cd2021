@@ -92,8 +92,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   02       | 19.04.2021   | José Ramos         <br/> [Presentación](seminario1/presentacion_JoseRamos.pdf){:target="_blank"}  | Modelo de decisión de velocidad media de los usuarios. Determinación de variables de mayor impacto en la predicción de la velocidad media de recorrido.  Clasificación *Naive Bayes* de velocidad del usuario: lento/rápido.
   03       | 19.04.2021   | Rodrigo Morales    <br/> [Presentación](seminario1/presentacion_Rodrigo.pdf){:target="_blank"}  | Modelos para localización óptima de nuevas estaciones. Uso de fuentes diversas para predicción: INEGI, población flotante, geolocalización, nivel socioeconómico. Comparación de criterios de localización óptima.
   04       | 19.04.2021   | Pablo Noack        <br/> [Presentación](seminario1/presentacion_Pablo.pdf){:target="_blank"}  | Distribuciones de tiempos de recorrido y desplazamientos. Relación geoespacial contra distribuciones de frecuencia de demanda. Análisis de la matriz de frecuencias. Clusterización t-SNE por frecuencia.
-  05       | 22.04.2021   | José López         <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
-  06       | 22.04.2021   | Javier Mejía       <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
+  05       | 22.04.2021   | José López         <br/> [Presentación](seminario1/presentacion_JoseLopez.pdf){:target="_blank"}  | 
+  06       | 22.04.2021   | Javier Mejía       <br/> [Presentación](seminario1/presentacion_Javier.pptx){:target="_blank"}  | 
   07       | 22.04.2021   | José Menéndez      <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
   08       | 22.04.2021   | Lorena Beltrán     <br/> [Presentación](seminario1/s.pdf){:target="_blank"}  | 
   
