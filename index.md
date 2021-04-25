@@ -59,6 +59,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   26       | 12.04.2021   | Ejemplos de clasificador bayesiano. Clasificador *Naive Bayes*. <br/> [Aula 26](aulas/aula26.pdf){:target="_blank"} | Algunos ejemplos <br/> [Ejemplo 1 (2 normales)](code/bayes_2normal_Example.ggb){:target="_blank"} <br/> [Ejemplo 2 (3 normales)](code/bayes_3normal_Example.ggb){:target="_blank"}
   27       | 15.04.2021   | Análisis discriminante (LDA y QDA). <br/> [Aula 27](aulas/aula27.pdf){:target="_blank"} | 
   S1       | 19.04.2021   | Presentación de seminarios.                                            | 
+  S1       | 22.04.2021   | Presentación de seminarios.                                            | 
+  28       | 26.04.2021   | Clasificadores lineales.                                               | 
 
 # Material adicional (labs)
 <div id='id-labs'/>
