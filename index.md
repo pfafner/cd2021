@@ -60,7 +60,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   27       | 15.04.2021   | Análisis discriminante (LDA y QDA). <br/> [Aula 27](aulas/aula27.pdf){:target="_blank"} | 
   S1       | 19.04.2021   | Presentación de seminarios.                                            | 
   S1       | 22.04.2021   | Presentación de seminarios.                                            | 
-  28       | 26.04.2021   | Clasificadores lineales.                                               | 
+  28       | 26.04.2021   |                                                                        | 
 
 # Material adicional (labs)
 <div id='id-labs'/>
