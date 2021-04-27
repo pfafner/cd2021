@@ -61,7 +61,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   S1       | 19.04.2021   | Presentación de seminarios.                                            | 
   S1       | 22.04.2021   | Presentación de seminarios.                                            | 
   S2       | 25.04.2021   |                                                                        | [Propuestas de proyectos finales](otros/proj2.pdf){:target="_blank"}
-  28       | 26.04.2021   | Clasificadores lineales. Clasificador logístico. El perceptrón. <br/> [Aula 28](aulas/aula28.pdf){:target="_blank"} | Demo de clasificador lineal. <br/> [Demo](https://martin-thoma.com/k-nearest-neighbor-classification-interactive-example/){:target="_blank"}
+  28       | 26.04.2021   | Clasificadores lineales. Clasificador logístico. El perceptrón. <br/> [Aula 28](aulas/aula28.pdf){:target="_blank"} | Demo de clasificador lineal. <br/> [Demo](https://adrianstoll.com/ml/perceptron-learning-algorithm/){:target="_blank"}
   
 
 # Material adicional (labs)
