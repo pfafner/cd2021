@@ -61,7 +61,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   S1       | 19.04.2021   | Presentación de seminarios.                                            | 
   S1       | 22.04.2021   | Presentación de seminarios.                                            | 
   S2       | 25.04.2021   |                                                                        | [Propuestas de proyectos finales](otros/proj2.pdf){:target="_blank"}
-  28       | 26.04.2021   | Clasificador logístico. <br/> [Aula 28](aulas/aula28.pdf){:target="_blank"} | 
+  28       | 26.04.2021   | Clasificadores lineales. Clasificador logístico. El perceptrón. <br/> [Aula 28](aulas/aula28.pdf){:target="_blank"} | Demo de clasificador lineal. <br/> [Demo](https://martin-thoma.com/k-nearest-neighbor-classification-interactive-example/){:target="_blank"}
   
 
 # Material adicional (labs)
@@ -85,6 +85,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   .        | 25.03.2021   | Métodos basados en densidad. Comparación.                            | [density-based.ipynb](labs/density-based.ipynb){:target="_blank"} <br/> [comparison.ipynb](labs/comparison.ipynb){:target="_blank"} 
   .        | 25.03.2021   | Métricas de evaluación para agrupamiento.                            | [silhouette.ipynb](labs/silhouette.ipynb){:target="_blank"}
   04       | 17.04.2021   | Clasificador y regresor Knn. Clasificador Naive Bayes.               | [knn.ipynb](labs/knn.ipynb){:target="_blank"} <br/> [bayes.ipynb](labs/bayes.ipynb){:target="_blank"}
+  .        | 26.04.2021   | Clasificador logístico.                                              | [logistic.ipynb](labs/logistic.ipynb){:target="_blank"} <br/> <br/> Ya funciona la convergencia! Aún así, es más exacto el método en Scikit-learn.
   
 
 # Presentaciones del primer seminario (Datos Ecobici)
