@@ -63,6 +63,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   S2       | 25.04.2021   |                                                                        | [Propuestas de proyectos finales](otros/proj2.pdf){:target="_blank"}
   28       | 26.04.2021   | Clasificadores lineales. Clasificador logístico. <br/> [Aula 28](aulas/aula28.pdf){:target="_blank"} | Demo de clasificador lineal. <br/> [Demo](https://adrianstoll.com/ml/perceptron-learning-algorithm/){:target="_blank"}
   29       | 29.04.2021   | Perceptrón. Máquinas de vectores de soporte. <br/> [Aula 29](aulas/aula29.pdf){:target="_blank"} | 
+  L5       |              |                                                                        | Lista de ejercicios 5
   30       |              |                                                                        | 
   
 
