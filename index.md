@@ -64,7 +64,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   28       | 26.04.2021   | Clasificadores lineales. Clasificador logístico. <br/> [Aula 28](aulas/aula28.pdf){:target="_blank"} | Demo de clasificador lineal. <br/> [Demo](https://adrianstoll.com/ml/perceptron-learning-algorithm/){:target="_blank"}
   29       | 29.04.2021   | Perceptrón. Máquinas de vectores de soporte. <br/> [Aula 29](aulas/aula29.pdf){:target="_blank"} | [Rosenblatt Perceptron](https://lecture-demo.ira.uka.de/neural-network-demo/?preset=Rosenblatt%20Perceptron){:target="_blank"} <br/> [Tensorflow Playground](http://playground.tensorflow.org){:target="_blank"}
   L6       |              |                                                                        | **[Lista de ejercicios 6](listas/lista06.pdf){:target="_blank"}** <br/> **Fecha de entrega: Domingo 16 de mayo.**
-  30       | 03.05.2021   | Árboles de decisión.                                                   | 
+  30       | 03.05.2021   | Árboles de decisión. [Aula 30](aulas/aula30.pdf){:target="_blank"}     | Para una breve historia y origen de árboles de decisión ver <br/> [Paper Wei-Yin Loh](http://pages.stat.wisc.edu/~loh/treeprogs/guide/LohISI14.pdf){:target="_blank"} [Slides](http://washstat.org/presentations/20150604/loh_slides.pdf){:target="_blank"}
   .        |              |                                                                        | 
   
 
