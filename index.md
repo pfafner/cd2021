@@ -95,6 +95,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   .        | 01.05.2021   | Clasificador SVM.                                                    | 
   .        | 03.05.2021   | Árboles de decisión.                                                 | [tree.ipynb](labs/tree.ipynb){:target="_blank"}
   .        | 06.05.2021   | *Random forests*.                                                    | [random-forest.ipynb](labs/random-forest.ipynb){:target="_blank"} 
+  05        | 15.05.2021  | Regresion líneal ordinaria.                                          | [ols.ipynb](labs/ols.ipynb){:target="_blank"} <br/> [plot_diagnostic.py](labs/plot_diagnostic.py){:target="_blank"} 
   
 
 # Presentaciones del primer seminario (Datos Ecobici)
