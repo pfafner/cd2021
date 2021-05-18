@@ -67,6 +67,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   30       | 03.05.2021   | Árboles de decisión. <br/> [Aula 30](aulas/aula30.pdf){:target="_blank"} | Para una breve historia y origen de árboles de decisión ver <br/> [Paper Wei-Yin Loh](http://pages.stat.wisc.edu/~loh/treeprogs/guide/LohISI14.pdf){:target="_blank"} [Slides](http://washstat.org/presentations/20150604/loh_slides.pdf){:target="_blank"}
   31       | 06.05.2021   | *Random forests*. *Bagging* y *Boosting*. <br/> [Aula 31](aulas/aula31.pdf){:target="_blank"} | 
   32       | 13.05.2021   | Modelo de regresión lineal. Mínimos cuadrados ordinarios. (OLS) <br/> [Aula 32](aulas/aula32.pdf){:target="_blank"} | 
+  33       | 17.05.2021   | Gráficos de diagnóstico <br/> [Aula 32](aulas/aula32.pdf){:target="_blank"} | 
+  L7       | 17.05.2021   |                                                                        | **[Lista de ejercicios 7](listas/lista07.pdf){:target="_blank"}** <br/> [spambase.csv](listas/spambase.csv){:target="_blank"} [winequality-white.csv](listas/winequality-white.csv){:target="_blank"} <br/> **Fecha de entrega: Jueves 10 de junio.**
   
 
 # Material adicional (labs)
