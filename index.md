@@ -69,7 +69,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   32       | 13.05.2021   | Modelo de regresión lineal. Mínimos cuadrados ordinarios. (OLS) <br/> [Aula 32](aulas/aula32.pdf){:target="_blank"} | 
   33       | 17.05.2021   | Gráficos de diagnóstico <br/> [Aula 33](aulas/aula33.pdf){:target="_blank"} | 
   L7       | 17.05.2021   |                                                                        | **[Lista de ejercicios 7](listas/lista07.pdf){:target="_blank"}** <br/> [spambase.csv](listas/spambase.csv){:target="_blank"} [winequality-white.csv](listas/winequality-white.csv){:target="_blank"} <br/> **Fecha de entrega: Jueves 10 de junio.**
-  34       | 20.05.2021   | Otros métodos de Regression. Selección de variables y modelos. <br/> [Aula 34](aulas/aula34.pdf){:target="_blank"} | 
+  34       | 20.05.2021   | Otros métodos de Regresión. Selección de variables y modelos. <br/> [Aula 34](aulas/aula34.pdf){:target="_blank"} | 
   35       | 24.05.2021   |                                                                        | 
   36       | 26.05.2021   |                                                                        | 
   
