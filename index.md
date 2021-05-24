@@ -115,6 +115,21 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   06       | 22.04.2021   | Javier Mejía       <br/> [Presentación](seminario1/presentacion_Javier.pptx){:target="_blank"}  | 
   07       | 24.04.2021   | José Menéndez      <br/> [Presentación](seminario1/s1.pdf){:target="_blank"}  | 
   08       | 24.04.2021   | Lorena Beltrán     <br/> [Presentación](seminario1/s.pdf){:target="_blank"}  | 
+
+
+# Presentaciones del segundo seminario (Proyectos)
+<div id='id-sem2'/>
+
+  **No.**  | **Fecha**    | **Expositor**                                                          | **Tópicos**
+  -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
+  01       | 31.05.2021   | <br/> [](){:target="_blank"}  | 
+  02       | 31.05.2021   | <br/> [](){:target="_blank"}  | 
+  03       | 31.05.2021   | <br/> [](){:target="_blank"}  | 
+  04       | 31.05.2021   | <br/> [](){:target="_blank"}  | 
+  05       | 03.06.2021   | <br/> [](){:target="_blank"}  | 
+  06       | 03.06.2021   | <br/> [](){:target="_blank"}  | 
+  07       | 03.06.2021   | <br/> [](){:target="_blank"}  | 
+  08       | 03.06.2021   | <br/> [](){:target="_blank"}  | 
   
 
 # Material sobre Python (textos, videos)
