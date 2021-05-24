@@ -70,8 +70,9 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   33       | 17.05.2021   | Gráficos de diagnóstico <br/> [Aula 33](aulas/aula33.pdf){:target="_blank"} | 
   L7       | 17.05.2021   |                                                                        | **[Lista de ejercicios 7](listas/lista07.pdf){:target="_blank"}** <br/> [spambase.csv](listas/spambase.csv){:target="_blank"} [winequality-white.csv](listas/winequality-white.csv){:target="_blank"} <br/> **Fecha de entrega: Jueves 10 de junio.**
   34       | 20.05.2021   | Otros métodos de Regresión. Selección de variables y modelos. <br/> [Aula 34](aulas/aula34.pdf){:target="_blank"} | 
-  35       | 24.05.2021   |                                                                        | 
-  36       | 26.05.2021   |                                                                        | 
+  35       | 24.05.2021   | Métricas para clasificación. Validación cruzada. <br/> [Aula 35](aulas/aula35.pdf){:target="_blank"} |  
+  36       | 24.05.2021   | Redes neuronales.                                                      | 
+  37       | 24.05.2021   | Redes neuronales.                                                      | 
   
 
 # Material adicional (labs)
@@ -99,7 +100,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   .        | 01.05.2021   | Clasificador SVM.                                                    | 
   .        | 03.05.2021   | Árboles de decisión.                                                 | [tree.ipynb](labs/tree.ipynb){:target="_blank"}
   .        | 06.05.2021   | *Random forests*.                                                    | [random-forest.ipynb](labs/random-forest.ipynb){:target="_blank"} 
-  05        | 15.05.2021  | Regresion líneal ordinaria.                                          | [ols.ipynb](labs/ols.ipynb){:target="_blank"} <br/> [plot_diagnostic.py](labs/plot_diagnostic.py){:target="_blank"} 
+  05       | 15.05.2021  | Regresion líneal ordinaria.                                          | [ols.ipynb](labs/ols.ipynb){:target="_blank"} <br/> [plot_diagnostic.py](labs/plot_diagnostic.py){:target="_blank"} 
   
 
 # Presentaciones del primer seminario (Datos Ecobici)
