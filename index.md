@@ -72,7 +72,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   34       | 20.05.2021   | Otros métodos de Regresión. Selección de variables y modelos. <br/> [Aula 34](aulas/aula34.pdf){:target="_blank"} | 
   35       | 24.05.2021   | Métricas para clasificación. Validación cruzada. <br/> [Aula 35](aulas/aula35.pdf){:target="_blank"} |  
   36       | 24.05.2021   | Redes neuronales.                                                      | 
-  37       | 24.05.2021   | Redes neuronales.                                                      | 
+  37       | 24.05.2021   |                                                                        | 
   
 
 # Material adicional (labs)
