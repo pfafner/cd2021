@@ -71,7 +71,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   L7       | 17.05.2021   |                                                                        | **[Lista de ejercicios 7](listas/lista07.pdf){:target="_blank"}** <br/> [spambase.csv](listas/spambase.csv){:target="_blank"} [winequality-white.csv](listas/winequality-white.csv){:target="_blank"} <br/> **Fecha de entrega: Jueves 10 de junio.**
   34       | 20.05.2021   | Otros métodos de Regresión. Selección de variables y modelos. <br/> [Aula 34](aulas/aula34.pdf){:target="_blank"} | 
   35       | 24.05.2021   | Métricas para clasificación. Validación cruzada. <br/> [Aula 35](aulas/aula35.pdf){:target="_blank"} |  
-  36       | 24.05.2021   | Redes neuronales multicapa. <br/> [Redes Neuronales 1 Epid.](keras/Neural-Networks-1.pdf){:target="_blank"} [Redes Neuronales 2 Epid.](keras/Neural-Networks-2.pdf){:target="_blank"} <br/> [Charla Delvas](keras/Charla-Delvas.pdf){:target="_blank"} | [Taller Keras 1](keras/Taller-Keras-1.pdf){:target="_blank"} <br/> [Material Taller Keras 1](keras/day1.zip){:target="_blank"}
+  36       | 24.05.2021   | Redes neuronales multicapa. <br/> [Redes Neuron. 1](keras/Neural-Networks-1.pdf){:target="_blank"} [Redes Neuron. 2](keras/Neural-Networks-2.pdf){:target="_blank"} <br/> [Charla Delvas](keras/Charla-Delvas.pdf){:target="_blank"} | [Taller Keras 1](keras/Taller-Keras-1.pdf){:target="_blank"} <br/> [Material Taller Keras 1](keras/day1.zip){:target="_blank"}
   37       | 24.05.2021   | Redes neuronales convolucionales. <br/>                               | [Taller Keras 2](keras/Taller-Keras-2.pdf){:target="_blank"} <br/> [Material Taller Keras 2](keras/day2.zip){:target="_blank"}
   
 
