@@ -124,10 +124,10 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
 
   **No.**  | **Fecha**    | **Expositor**                                                          | **Tópicos**
   -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
-  01       | 31.05.2021   | <br/> [](){:target="_blank"}  | 
-  02       | 31.05.2021   | <br/> [](){:target="_blank"}  | 
-  03       | 31.05.2021   | <br/> [](){:target="_blank"}  | 
-  04       | 31.05.2021   | <br/> [](){:target="_blank"}  | 
+  01       | 03.06.2021   | <br/> [](){:target="_blank"}  | 
+  02       | 03.06.2021   | <br/> [](){:target="_blank"}  | 
+  03       | 03.06.2021   | <br/> [](){:target="_blank"}  | 
+  04       | 03.06.2021   | <br/> [](){:target="_blank"}  | 
   05       | 03.06.2021   | <br/> [](){:target="_blank"}  | 
   06       | 03.06.2021   | <br/> [](){:target="_blank"}  | 
   07       | 03.06.2021   | <br/> [](){:target="_blank"}  | 
