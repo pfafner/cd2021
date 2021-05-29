@@ -124,15 +124,15 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
 
   **No.**  | **Fecha**    | **Expositor**                                                          | **Tópicos**
   -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
-  01       | 03.06.2021   | José Menéndez <br/> [](){:target="_blank"}  | Clasificador de gestos de manos 
-  02       | 03.06.2021   | José López <br/> [](){:target="_blank"}  | Clasificador para detección de cáncer de piel
-  03       | 03.06.2021   | Rodrigo Morales <br/> [](){:target="_blank"}  | Alternativas a la data de movilidad para la caracterización de sectores comerciales
-  04       | 03.06.2021   | José Ramos <br/> [](){:target="_blank"}  | Prediciendo hits y *clustering* de canciones
-  05       | 03.06.2021   | Lorena Beltrán <br/> [](){:target="_blank"}  | Equidad de Género, un problema del siglo XXI 
-  06       | 03.06.2021   | Juan Lorthiois <br/> [](){:target="_blank"}  | Identificación de patrones en las fatalidades ocurridas durante enfrentamientos con la policía norteamericana 
-  07       | 03.06.2021   | Javier Mejía <br/> [](){:target="_blank"}  | 
-  08       | 03.06.2021   | Pablo Noack <br/> [](){:target="_blank"}  | Análisis de textos y contenidos en el dataset *Old Newspapers*
-  Alternativas a la data de movilidad para la caracterización de sectores comerciales
+  01       | 03.06.2021   | José Menéndez <br/> [](){:target="_blank"}                             | Clasificador de gestos de manos 
+  02       | 03.06.2021   | José López <br/> [](){:target="_blank"}                                | Clasificador para detección de cáncer de piel
+  03       | 03.06.2021   | Rodrigo Morales <br/> [](){:target="_blank"}                           | Alternativas a la data de movilidad para la caracterización de sectores comerciales
+  04       | 03.06.2021   | José Ramos <br/> [](){:target="_blank"}                                | Prediciendo hits y *clustering* de canciones
+  05       | 03.06.2021   | Lorena Beltrán <br/> [](){:target="_blank"}                            | Equidad de Género, un problema del siglo XXI 
+  06       | 03.06.2021   | Juan Lorthiois <br/> [](){:target="_blank"}                            | Identificación de patrones en las fatalidades ocurridas durante enfrentamientos con la policía norteamericana 
+  07       | 03.06.2021   | Javier Mejía <br/> [](){:target="_blank"}                              | 
+  08       | 03.06.2021   | Pablo Noack <br/> [](){:target="_blank"}                               | Análisis de textos y contenidos en el dataset *Old Newspapers*
+
 
 # Material sobre Python (textos, videos)
 <div id='id-python'/>
