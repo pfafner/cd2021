@@ -114,9 +114,9 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   03       | 19.04.2021   | Rodrigo Morales    <br/> [Presentación](seminario1/presentacion_Rodrigo.pdf){:target="_blank"}  | Modelos para localización óptima de nuevas estaciones. Uso de fuentes diversas para predicción: INEGI, población flotante, geolocalización, nivel socioeconómico. Comparación de criterios de localización óptima.
   04       | 19.04.2021   | Pablo Noack        <br/> [Presentación](seminario1/presentacion_Pablo.pdf){:target="_blank"}  | Distribuciones de tiempos de recorrido y desplazamientos. Relación geoespacial contra distribuciones de frecuencia de demanda. Análisis de la matriz de frecuencias. Clusterización t-SNE por frecuencia.
   05       | 22.04.2021   | José López         <br/> [Presentación](seminario1/presentacion_JoseLopez.pdf){:target="_blank"}  | Estadísticas comparativas antes y después de Covid-19. Segmentación de uso por edad y género. Pronósticos de demanda máxima y mínima de bicicletas. *Forecasting* de demanda con series de tiempo.
-  06       | 22.04.2021   | Javier Mejía       <br/> [Presentación](seminario1/presentacion_Javier.pptx){:target="_blank"}  | Estadísticas descriptivas de base de datos Ecobici. Análisis de la encuesta sobre uso Ecobici. Diseño de visualizaciones intuitivas. Comparación de rutas por *weekday/weekend*. Mapas de calor zonas de mayor demanda.
-  07       | 24.04.2021   | José Menéndez      <br/> [Presentación](seminario1/presentacion_JoseMenendez.pptx){:target="_blank"}  | 
-  08       | 24.04.2021   | Lorena Beltrán     <br/> [Presentación](seminario1/presentacion_Lorena.pptx){:target="_blank"}  | 
+  06       | 22.04.2021   | Javier Mejía       <br/> [Presentación](seminario1/presentacion_Javier.pptx){:target="_blank"}  | Análisis de la encuesta sobre uso Ecobici. Diseño de visualizaciones intuitivas. Comparación de rutas y tiempos promedio por *weekday/weekend*. Mapas de calor zonas de mayor demanda. Matriz de frecuencias.
+  07       | 24.04.2021   | José Menéndez      <br/> [Presentación](seminario1/presentacion_JoseMenendez.pptx){:target="_blank"}  |  
+  08       | 24.04.2021   | Lorena Beltrán     <br/> [Presentación](seminario1/presentacion_Lorena.pptx){:target="_blank"}  | Estadísticas descriptivas de base de datos Ecobici. Distribuciones por cada variable. Análisis de componentes principalesy análisis de correlación. Detección de zonas de mayor actividad.
 
 
 # Presentaciones del segundo seminario (Proyectos)
