@@ -122,7 +122,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
 # Presentaciones del segundo seminario (Proyectos)
 <div id='id-sem2'/>
 
-  **No.**  | **Fecha**    | **Expositor**                                                          | **Tópicos**
+  **No.**  | **Fecha**    | **Expositor**                                                          | **Título**
   -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
   01       | 03.06.2021   | José Menéndez <br/> [](){:target="_blank"}                             | Clasificador de gestos de manos 
   02       | 03.06.2021   | José López <br/> [](){:target="_blank"}                                | Clasificador para detección de cáncer de piel
