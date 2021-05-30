@@ -130,7 +130,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   04       | 03.06.2021   | José Ramos <br/> [](){:target="_blank"}                                | Prediciendo hits y *clustering* de canciones
   05       | 03.06.2021   | Lorena Beltrán <br/> [](){:target="_blank"}                            | Equidad de Género, un problema del siglo XXI 
   06       | 03.06.2021   | Juan Lorthiois <br/> [](){:target="_blank"}                            | Identificación de patrones en las fatalidades ocurridas durante enfrentamientos con la policía norteamericana 
-  07       | 03.06.2021   | Javier Mejía <br/> [](){:target="_blank"}                              | 
+  07       | 03.06.2021   | Javier Mejía <br/> [](){:target="_blank"}                              | Clasificando géneros musicales a partir de la letra
   08       | 03.06.2021   | Pablo Noack <br/> [](){:target="_blank"}                               | Análisis de textos y contenidos en el dataset *Old Newspapers*
 
 
