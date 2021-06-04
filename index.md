@@ -1,6 +1,6 @@
 # Introducción a la Ciencia de Datos 2021
 
-Este es un curso introductorio a la ciencia de datos, con énfasis principalmente en los fundamentos matemáticos y estadísticos de los principales algoritmos de aprendizaje automáticos y reconocimiento de patrones. El tema central del curso es el estudio de métodos para obtener información útil a partir de datos. Al final del curso, los estudiantes comprederán, tanto en la teoría como en la práctica, las etapas necesarias para producir un estudio o análisis de datos, desde la concepción de un problema, hasta la generación de un informe técnico de análisis. Para aprovechar de mejor manera el curso, es recomendable que los estudiantes estén familiarizados con temas de álgebra lineal, cálculo, estadística matemática, y tener conocimientos de al menos un lenguaje de programación (*e.g.* Python, R, Matlab, C++, u otros).
+Este es un curso introductorio a la ciencia de datos, con énfasis principalmente en los fundamentos matemáticos y estadísticos de los principales algoritmos de aprendizaje automático y reconocimiento de patrones. El tema central del curso es el estudio de métodos para obtener información útil a partir de datos. Al final del curso, los estudiantes comprederán, tanto en la teoría como en la práctica, las etapas necesarias para producir un estudio o análisis de datos, desde la concepción de un problema, hasta la generación de un informe técnico de análisis. Para aprovechar de mejor manera el curso, es recomendable que los estudiantes estén familiarizados con temas de álgebra lineal, cálculo, estadística matemática, y tener conocimientos de al menos un lenguaje de programación (*e.g.* Python, R, Matlab, C++, u otros).
 
 
 # Programa del curso
@@ -128,7 +128,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   02       | 03.06.2021   | José López <br/> [](){:target="_blank"}                                | Clasificador para detección de cáncer de piel
   03       | 03.06.2021   | Rodrigo Morales <br/> [](){:target="_blank"}                           | Alternativas a la data de movilidad para la caracterización de sectores comerciales
   04       | 03.06.2021   | José Ramos <br/> [](){:target="_blank"}                                | Prediciendo hits y *clustering* de canciones
-  05       | 03.06.2021   | Lorena Beltrán <br/> [](){:target="_blank"}                            | Equidad de Género, un problema del siglo XXI 
+  05       | 03.06.2021   | Lorena Beltrán <br/> [](){:target="_blank"}                            | Equidad de género, un problema del siglo XXI 
   06       | 03.06.2021   | Juan Lorthiois <br/> [](){:target="_blank"}                            | Identificación de patrones en las fatalidades ocurridas durante enfrentamientos con la policía norteamericana 
   07       | 03.06.2021   | Javier Mejía <br/> [](){:target="_blank"}                              | Clasificando géneros musicales a partir de la letra
   08       | 03.06.2021   | Pablo Noack <br/> [](){:target="_blank"}                               | Análisis de textos y contenidos en el dataset *Old Newspapers*
