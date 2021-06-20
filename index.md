@@ -129,8 +129,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   03       | 03.06.2021   | Rodrigo Morales <br/> [Presentación](seminario2/Presentacion_Rodrigo.pdf){:target="_blank"}  | Alternativas a la data de movilidad para la caracterización de sectores comerciales
   04       | 03.06.2021   | José Ramos <br/> [Presentación](seminario2/Presentacion_JoseRamos.pdf){:target="_blank"} | Prediciendo hits y *clustering* de canciones
   05       | 03.06.2021   | Lorena Beltrán <br/> [Presentación](seminario2/Presentacion_Lorena.pptx){:target="_blank"} | Equidad de género, un problema del siglo XXI 
-  06       | 03.06.2021   | Juan Lorthiois <br/> [Presentación](seminario2/Presentacion_.pdf){:target="_blank"} | Identificación de patrones en las fatalidades ocurridas durante enfrentamientos con la policía norteamericana 
-  07       | 03.06.2021   | Javier Mejía <br/> [Presentación](seminario2/Presentacion_.pdf){:target="_blank"} | Clasificando géneros musicales a partir de la letra
+  06       | 03.06.2021   | Juan Lorthiois <br/> [Presentación](seminario2/Presentacion_Juan.pdf){:target="_blank"} | Identificación de patrones en las fatalidades ocurridas durante enfrentamientos con la policía norteamericana 
+  07       | 03.06.2021   | Javier Mejía <br/> [Presentación](seminario2/Presentacion_Javier.pdf){:target="_blank"} | Clasificando géneros musicales a partir de la letra
   08       | 03.06.2021   | Pablo Noack <br/> [Presentación](seminario2/Presentacion_Pablo.pptx){:target="_blank"}  | Análisis de textos y contenidos en el dataset *Old Newspapers*
 
 
