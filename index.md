@@ -126,8 +126,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
   01       | 03.06.2021   | José Menéndez <br/> [Presentación](seminario2/Presentacion_JoseMenendez.pdf){:target="_blank"} | Clasificador de gestos de manos 
   02       | 03.06.2021   | José López <br/> [Presentación](seminario2/Presentacion_JoseLopez.pdf){:target="_blank"}    | Clasificador para detección de cáncer de piel
-  03       | 03.06.2021   | Rodrigo Morales <br/> [Presentación](seminario2/Presentacion_.pdf){:target="_blank"}  | Alternativas a la data de movilidad para la caracterización de sectores comerciales
-  04       | 03.06.2021   | José Ramos <br/> [Presentación](seminario2/Presentacion_.pdf){:target="_blank"} | Prediciendo hits y *clustering* de canciones
+  03       | 03.06.2021   | Rodrigo Morales <br/> [Presentación](seminario2/Presentacion_Rodrigo.pdf){:target="_blank"}  | Alternativas a la data de movilidad para la caracterización de sectores comerciales
+  04       | 03.06.2021   | José Ramos <br/> [Presentación](seminario2/Presentacion_JoseRamos.pdf){:target="_blank"} | Prediciendo hits y *clustering* de canciones
   05       | 03.06.2021   | Lorena Beltrán <br/> [Presentación](seminario2/Presentacion_.pdf){:target="_blank"} | Equidad de género, un problema del siglo XXI 
   06       | 03.06.2021   | Juan Lorthiois <br/> [Presentación](seminario2/Presentacion_.pdf){:target="_blank"} | Identificación de patrones en las fatalidades ocurridas durante enfrentamientos con la policía norteamericana 
   07       | 03.06.2021   | Javier Mejía <br/> [Presentación](seminario2/Presentacion_.pdf){:target="_blank"} | Clasificando géneros musicales a partir de la letra
