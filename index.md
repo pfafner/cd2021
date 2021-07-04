@@ -40,7 +40,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   L2      | 13.02.2021   |                                                                     |  **[Lista de ejercicios 2](listas/lista02.pdf){:target="_blank"}** <br/> [crimes.dat](listas/crimes.dat){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} <br/> **Fecha de entrega: Martes 23 de febrero.**
   12       | 15.02.2021   | PCA Robusto. Kernel PCA. <br/> [Aula 12](aulas/aula12.pdf){:target="_blank"} | 
   13       | 18.02.2021   | Variables latentes. ICA. <br/> [Aula 13](aulas/aula13.pdf){:target="_blank"} | 
-  14       | 22.02.2021   | Factoracion no-negativa de matrices <br/> [Aula 14](aulas/aula14.pdf){:target="_blank"} |  Agregados ejemplos de NNMF. <br/> **Obs!** El archivo no está completo. Me falta agregar el material sobre análisis semántico latente: LSA, LDA y FA y ejemplos (lo que vimos fuera de las diapositivas).
+  14       | 22.02.2021   | Factoracion no-negativa de matrices <br/> [Aula 14](aulas/aula14.pdf){:target="_blank"} | El archivo no está completo. Falta agregar el material sobre análisis semántico latente: LSA, LDA y FA y ejemplos.
   15       | 25.02.2021   | Métodos locales I <br/> [Aula 15](aulas/aula15.pdf){:target="_blank"} | Agregados ejemplos de *manifold learning*. 
   L3       | 28.02.2021   |                                                                       | **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 11 de marzo.**
   16       | 01.03.2021   | Métodos locales II <br/> [Aula 16](aulas/aula16.pdf){:target="_blank"} | Faltan ejemplos de SOM.
