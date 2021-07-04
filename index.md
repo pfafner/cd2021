@@ -97,7 +97,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   .        | 25.03.2021   | Métodos basados en densidad. Comparación.                            | [density-based.ipynb](labs/density-based.ipynb){:target="_blank"} <br/> [comparison.ipynb](labs/comparison.ipynb){:target="_blank"} 
   .        | 25.03.2021   | Métricas de evaluación para agrupamiento.                            | [silhouette.ipynb](labs/silhouette.ipynb){:target="_blank"}
   04       | 17.04.2021   | Clasificador y regresor Knn. Clasificador Naive Bayes.               | [knn.ipynb](labs/knn.ipynb){:target="_blank"} <br/> [bayes.ipynb](labs/bayes.ipynb){:target="_blank"}
-  .        | 26.04.2021   | Clasificador logístico.                                              | [logistic.ipynb](labs/logistic.ipynb){:target="_blank"} <br/> <br/> Ya funciona la convergencia! Aún así, es más exacto el método en Scikit-learn.
+  .        | 26.04.2021   | Clasificador logístico.                                              | [logistic.ipynb](labs/logistic.ipynb){:target="_blank"}
   .        | 01.05.2021   | Clasificador SVM.                                                    | 
   .        | 03.05.2021   | Árboles de decisión.                                                 | [tree.ipynb](labs/tree.ipynb){:target="_blank"}
   .        | 06.05.2021   | *Random forests*.                                                    | [random-forest.ipynb](labs/random-forest.ipynb){:target="_blank"} 
